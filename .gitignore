@@ -75,3 +75,11 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
 # End of https://www.toptal.com/developers/gitignore/api/unity
+
+ScriptObject_Sample/Library/
+
+ScriptObject_Sample/Logs/
+
+ScriptObject_Sample/UserSettings/
+
+ScriptObject_Sample/obj/
